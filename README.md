@@ -1,5 +1,5 @@
 # Evolution of Trust
-A netlogo program which simulates the game of trust and verify several famous topics in evolution of trust 
+A netlogo program which simulates the game of trust and verifies several famous topics in evolution of trust 
 1. Win win
 2. How to achieve trust
 3. The collapse of trust
